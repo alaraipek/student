@@ -12,6 +12,7 @@ My name is Alara Ipek and for most of my life I lived in different areas of New 
 
 ## How This Blog Was Made
 Throughout the first week of installations, I learned how to set up and use the development environment, VS Code. Along the way, my partner and I faced many challenges, but consequently developed debugging and problem solving skills. Many times, the issues Alisha and I encountered were of our own error. For example, we often mistyped a line of code and would run into a bug. However, we were able to ask each other questions and debug our mistakes through communication and collaboration. 
+
 ##  Planning
 <img src="https://github.com/alaraipek/Issues/issues/2#issue-1864231496">
 Besides coding, we also were introduced to new organizational tools online such as Scrum Board. Through Scrum Boards, we created the timeline shown above and planned due dates for installations to keep us on track throughout the project.
