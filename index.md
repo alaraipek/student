@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Alara Ipek's Webpage 
-This is about your journey. Start now!!!
+This is my first blog ever.
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. Today I will be editing my first ever blog. 
