@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 <img src="https://github.com/alaraipek/Issues/assets/115954616/da1cdbf0-0055-4d15-8fe8-74ce29c2104a">
-## Alara Ipek's Webpage 
+## <code style="color: #57AOD3"> Alara's Webpage 
 This is my first blog ever! I hope you enjoy.
 
 ## About Me
