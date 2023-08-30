@@ -12,7 +12,6 @@ categories: [C1.4]
 
 ### PBL Unit 1 / Week 1
 
-%%html
 <table class="table">
     <thead>
         <tr>
