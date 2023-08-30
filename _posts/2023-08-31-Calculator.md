@@ -1,12 +1,13 @@
 ---
-toc: false
-layout: post
-title: ☆ Calculator
+title: Calculator
 comments: false
+toc: true
+layout: post
 description: A common way to become familiar with a language is to build a calculator.  This calculator shows off button with actions.
 permalink: /techtalk/home_style
 courses: { compsci: {week: 2} }
 type: hacks
+---
 
 <!-- 
 Hack 0: Right justify result
@@ -19,7 +20,6 @@ Hack 3: Implement 1 number operation (ie SQRT)
 HTML implementation of the calculator. 
 -->
 
-{include nav_home.html %}
 
 <!-- 
     Style and Action are aligned with HRML class definitions
