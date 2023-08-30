@@ -4,13 +4,14 @@ comments: true
 layout: post
 ##Originally titled GitHub Pages
 title: Weekly Schedule
-description: Build your first Blog.  This will help us communicate results.
+description: Learning The Fundementals
 type: plans
 courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, compsci: {week: 1} }
 categories: [C1.4]
 ---
 
 ### PBL Unit 1 / Week 1
+
 %%html
 <table class="table">
     <thead>
