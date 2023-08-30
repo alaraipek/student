@@ -10,7 +10,7 @@ courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, compsci: {week: 1
 categories: [C1.4]
 ---
 
-### PBL Unit 1 / Week 1
+### PBL Unit 1 / Week 1***
 
 <table class="table">
     <thead>
