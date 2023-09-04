@@ -26,6 +26,7 @@ Markdown, HTML, and JavaScript are all good web language options, but knowing wh
 
 ### Favorite Books & Ratings
 
+tr:hover {background-color: #D6EEEE;}
 <table class="table">
     <thead>
         <tr>
