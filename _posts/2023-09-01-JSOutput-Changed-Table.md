@@ -171,4 +171,4 @@ Markdown, HTML, and JavaScript are all good web language options, but knowing wh
 
 ## Future Hacks
 
-The archived books list I designed is similar to how a library would show their inventory online. If this were a more useful website similar to that of a library, I would most likely want to add a hyperlink or dropdown page for each book, giving a rating section for readers to interact and share their ratings. Then, the ratings would be averaged to list the final star rating.
+The archived books list I designed is similar to how a library would show their inventory online. If this were a more useful website similar to that of a library, I would most likely want to add a hyperlink or dropdown page for each book, giving a rating section for readers to interact and share their ratings. Finally, the ratings would be averaged to list the final star rating.
