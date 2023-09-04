@@ -27,6 +27,7 @@ Markdown, HTML, and JavaScript are all good web language options, but knowing wh
 ### Favorite Books & Ratings
 
 <!--CSS Styling, table & hover-->
+
 <html>
 <head>
 <style>
@@ -40,7 +41,6 @@ th, td {
 tr:hover {background-color: #D6EEEE;}
 </html>
 </head>
-<body>
 
 <table class="table">
     <thead>
