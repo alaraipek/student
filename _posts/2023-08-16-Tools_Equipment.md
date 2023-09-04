@@ -2,13 +2,13 @@
 toc: true
 comments: true
 layout: post
-title: Activities
+title: GitHub Account & Jupyter Setup
 description: Tools and equipment setup for tools used throughout this class.
 courses: { csse: {week: 0}, csp: {week: 0}, compsci: {week: 1} }
 type: hacks
 ---
 
-## Hacks
+## Week 1 Hacks
 > Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
 
 ### GitHub Account
