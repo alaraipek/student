@@ -26,21 +26,7 @@ Markdown, HTML, and JavaScript are all good web language options, but knowing wh
 
 ### Favorite Books & Ratings
 
-<!--CSS Styling, table & hover-->
 
-<html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th, td {
-  background-color: #96D4D4;
-}
-tr:hover {background-color: #D6EEEE;}
-</html>
-</head>
 
 <table class="table">
     <thead>
@@ -189,6 +175,19 @@ tr:hover {background-color: #D6EEEE;}
 
 The archived books list I designed is similar to how a library would show their inventory online. If this were a more useful website similar to that of a library, I would most likely want to add a hyperlink or dropdown page for each book, giving a rating section for readers to interact and share their ratings. Finally, the ratings would be averaged to list the final star rating.
 
-#!pip install emoji
-from emoji import emojize 
-print(emojize(":thumbs_up: Python is awesome! :grinning_face:"))
+
+<!--CSS Styling, table & hover-->
+
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+tr:hover {background-color: #D6EEEE;}
+</html>
+</head>
