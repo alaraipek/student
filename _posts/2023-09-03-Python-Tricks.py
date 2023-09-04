@@ -31,3 +31,11 @@ for term in terms:
     # print(summary) # console display
     display(Markdown(summary)) # Jupyter display
     
+import inspect 
+from newspaper import Article
+
+# inspect newspaper Article function
+print(inspect.getsource(Article))
+
+
+
