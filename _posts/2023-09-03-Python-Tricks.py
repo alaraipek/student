@@ -43,7 +43,7 @@ from typing import Union
 
 # Define types for mean function, trying to analyze input possibilities
 Number = Union[int, float]  # Number can be either int or float type
-Numbers = list['Number'] # Numbers is a list of Number types
+Numbers = list[Number] # Numbers is a list of Number types
 Scores = Union[Number, Numbers] # Scores can be single or multiple 
 
 def mean(scores: Scores, method: int = 1) -> float:
