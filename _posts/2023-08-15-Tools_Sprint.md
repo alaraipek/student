@@ -9,7 +9,7 @@ courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, compsci: {week: 1
 categories: [C1.4]
 ---
 
-**### Week 0**
+### Week 0
 Learning outcome.  Installing Tools and showing usage of VSCode.
 - Wednesday - FOund pair share partner, Alisha.
 - Thursday - Setup Tools on laptop and/or Cloud Computer.
