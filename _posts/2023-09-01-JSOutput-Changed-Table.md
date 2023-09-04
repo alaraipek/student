@@ -35,11 +35,9 @@ th, td {
   background-color: #96D4D4;
 }
 
-tr:hover {background-color: #D6EEEE;}
-
 <table class="table">
     <thead>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <th>Title</th>
             <th>Author</th>
             <th>Note</th>
@@ -47,49 +45,49 @@ tr:hover {background-color: #D6EEEE;}
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>Where the Crawdads Sing</td>
             <td>Delia Owens</td>
             <td>Poetic fiction, prejudice & self-reliance </td>
             <td>★★★★★</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>The Old Man and the Sea</td>
             <td>Ernest Hemmingway</td>
             <td>Fiction, struggle, resilience, & patience</td>
             <td>★★★★☆</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>Moby Dick</td>
             <td>Herman Melville</td>
             <td>Adventure Fiction, survival & imperialism</td>
             <td>★★★★☆</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>Harry Potter and the Sorcerer's Stone</td>
             <td>J.K. Rowling</td>
             <td>Fantasy, bravery & mystery</td>
             <td>★★★★★</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>Just Kids</td>
             <td>Patti Smith</td>
             <td>Memoir, creativity & love</td>
             <td>★★★★★</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>Atomic Habits</td>
             <td>James Clear</td>
             <td>Self-help/Self-Improvement</td>
             <td>★★★★☆</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>The Great Gatsby</td>
             <td>F. Scott Fitzgerald</td>
             <td>Novel, tragedy & love</td>
             <td>★★★☆☆</td>
         </tr>
-        <tr>
+        <tr:hover {background-color: #D6EEEE;}>
             <td>The Alchemist</td>
             <td>Paulo Coelho</td>
             <td>Adventure fiction, love/life lessons</td>
