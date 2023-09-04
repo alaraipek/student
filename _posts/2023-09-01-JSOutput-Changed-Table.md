@@ -26,7 +26,17 @@ Markdown, HTML, and JavaScript are all good web language options, but knowing wh
 
 ### Favorite Books & Ratings
 
+<!--CSS Styling, table & hover-->
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+
 tr:hover {background-color: #D6EEEE;}
+
 <table class="table">
     <thead>
         <tr>
