@@ -9,7 +9,7 @@ courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, compsci: {week: 3
 categories: [C1.4]
 ---
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
     <style>
