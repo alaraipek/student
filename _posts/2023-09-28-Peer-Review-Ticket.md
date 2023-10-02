@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Peer Review Ticket
 description: Review Ticket For Peer Grading
