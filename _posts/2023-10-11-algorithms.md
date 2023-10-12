@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Algorithms Homework
 description: Period 1 Algorithms Homework
-type: hacks
+type: tangibles
 courses: { compsci: {week: 6} }
 categories: [C1.4]
 ---
