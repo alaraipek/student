@@ -9,7 +9,7 @@ courses: { compsci: {week: 8} }
 categories: [C1.4]
 ---
 
-# Example Questions I Struggled With
+# Questions I Struggled With
 
 ## #3: Which of the following would be the best use of citizen science?
 
@@ -36,3 +36,27 @@ if age<=12 or age>=60
     ticket price <--9
 else
     ticket price <--ticket price + 5
+
+# Question I Missed
+
+Consider the following program.
+
+count <- 1
+sum <- 0
+REPEAT 10 TIMES
+    sum <- sum + count
+    count <- count + 2
+DISPLAY sum
+
+Explanation: The value of count starts at 1 and increases by twos, so it counts odd integers. The loop iterates 10 times, adding each intermediate value of count each time. Therefore, the program displays the sum of the odd integers starting at 1 and ending at 19.
+
+# Side Lesson on Copyright
+copyright - the exclusive legal right to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same
+
+### Creative Commons
+The Creative Commons license helps content creators explain what other people can do with their work. The Creative Commons license has different parts that you choose from to say exactly what is and is not allowed.
+
+BY - Attribution: Others who use this work must give credit to the original author.
+NC - Non-Commercial: Others may not use this work for advertising or to make money.
+SA - Share-Alike: Users of this work must share any new versions under the exact same license.
+ND - No Derivative Works: Users may only use this work as is and may make no changes.
