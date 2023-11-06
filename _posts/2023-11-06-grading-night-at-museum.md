@@ -2,11 +2,10 @@
 toc: true
 comments: false
 layout: post
-title: Slack Peer Grading Extra Credit
+title: Slack Peer Grading EC
 description: Night at The Museum Peer Grading for extra credit. Present during individual reviews with Mr. Lopez.
-type: tangibles
-courses: { compsci: {week: 12} }
-categories: [C1.4]
+type: hacks
+courses: { compsci: {week: 11} }
 ---
 
 # Nitin, Akshay, Anvay, and Srinivas
