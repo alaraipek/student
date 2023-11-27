@@ -51,6 +51,11 @@ courses: { compsci: {week: 11} }
         - Text box to input answers
             - Feedback printed below based on answer correctness
 
+## Sign-In Feature
+- Display login
+- Create multiple accounts and set up with backend
+- Create passwords
+
 # FEEDBACK
 
 Graders: Nitin, Ishan, Akshay, Saatvik
