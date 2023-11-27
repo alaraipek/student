@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Design Ideation
 description: Ideation for Game and UI Design
-type: hacks
-courses: { compsci: {week: 11} }
+type: tangibles
+courses: { compsci: {week: 12} }
 ---
 
 ## Binary Logic Ideation
@@ -61,4 +61,3 @@ courses: { compsci: {week: 11} }
 Graders: Nitin, Ishan, Akshay, Saatvik
 Score: 0.95/1.00
 - Great ideation and concept ideas, improve on detail and binary aspect. 
-
