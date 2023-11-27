@@ -5,58 +5,72 @@ layout: post
 title: Design Ideation
 description: Ideation for Game and UI Design
 type: tangibles
-courses: { compsci: {week: 12} }
+courses: { compsci: {week: 11} }
 ---
 
 ## Binary Logic Ideation
 
 - Compilation of various binary-related and sourced activites
   - Similar to CoolMathGames, but 3 games and solely binary-related
-        - Puzzle
-        - Converting (with binary)
-        - Binary math
+        1. Binary Checkers
+        2. Binary Blue vs. Red Game
+        3. Binary Sudoku
+        4. Score Tracker Using Binary System
 
 ## Details
 
-# Binary Puzzle Solver
+<img src="https://github.com/alaraipek/Issues/assets/115954616/ab249767-70e6-48b6-a954-6eec944aad5e">
 
-- Users are presented with a grid of zeros and ones
-  - Objective is to solve binary puzzles by applying logical operations to make rows and columns add up to specific binary values.
-  - Binary operations
-    - Utilize bitwise AND, OR, XOR operations for puzzle-solving logic
-    - Incorporate left and right shifts for dynamic puzzle generation
-  - UI design
-    - Display a grid with interactive cells
-    - Include buttons for shifting bits (left and right) and performing logical operations
+# Binary Checkers
 
-## Binary Converter Challenge
+Binary Checkers is a binary-themed version of the classic Checkers game. Players move binary pieces on a checkerboard, capturing opponent pieces by jumping over them and converting them to binary 1s.
 
-- Users are given randomly generated decimal numbers (.000 to .999) to convert to binary and vice versa
-  - Score based on correctness and speed of conversions
-  - Binary operations
-    - Use bitwise AND, OR, XOR for binary-to-decimal and decimal-to-binary conversions
-    - Incorporate left and right shifts for dynamic gameplay
-- UI design
-  - Display decimal and binary numbers for conversion
-  - Include buttons for shifting bits and converting numbers
+### Coding Plan
 
-## Binary Math Problems
+- Create a checkerboard grid and represent the pieces with binary values (0 and 1).
+- Implement the rules of movement and capturing for binary checkers.
+- Develop an interactive game interface, allowing users to make moves by clicking on the squares.
+- Incorporate logic to detect and execute binary conversions when a piece is captured.
 
-- Users solve binary math problems to update a score
-  - Correctness and speed of solving problems (inputting correct answers) determine success
-  - Binary operations
-    - Integrate bitwise AND, OR, XOR operations into math problems
-    - Use left and right shifts: dynamics
-  - UI design
-    - Display math problems
-    - Text box to input answers
-      - Feedback printed below based on answer correctness
+<img src="https://github.com/alaraipek/Issues/assets/115954616/507125d6-cf4d-4329-94dd-d22a45fe11c9">
 
-## Sign-In Feature
+## Binary Blue vs. Red Game
 
-- Display login
-- Create multiple accounts and set up with backend
-- Create passwords
+In the Binary Red/Blue game, users interact with a grid of red and blue squares. When a square is clicked, its binary value and the values of neighboring squares change. The objective is to make all squares the same color by manipulating their binary states.
+
+### Coding Plan
+
+- Create a grid structure and represent colors with binary values (0 for red, 1 for blue).
+- Implement logic to update the binary values of clicked squares and their neighbors.
+- Develop an interactive interface for users to click on squares and observe color changes.
+- Include a win condition check to determine when all squares are the same color.
+- Add visual effects and animations to enhance the gaming experience.
+
+<img src="https://github.com/alaraipek/Issues/assets/115954616/666fa8b3-98e3-42c5-a24e-135dce33bd6d">
+
+## Binary Sudoku
+
+The Binary Sudoku game is a unique twist on the classic Sudoku, where instead of using numbers 1-9, players use binary digits 0 and 1. The challenge is to fill a 3x3 grid within each larger 9x9 grid, ensuring that each row and column adds up to 3 in binary.
+
+### Coding Plan
+- Create a 9x9 grid structure for the Sudoku board.
+- Implement logic to generate a solvable binary Sudoku puzzle.
+- Provide an interactive interface for users to input their binary values.
+- Develop a validation system to check if the entered values satisfy the binary Sudoku rules.
+
+<img src="https://github.com/alaraipek/Issues/assets/115954616/a823cadb-7f4a-46c2-b4cf-2735726385c0">
+
+## Binary Score Tracker
+
+The Binary Score Tracker is a tool to keep track of users' scores and achievements using the binary system. Users earn binary points, and their overall score is displayed in binary format.
+
+### Coding Plan
+
+- Create a user profile system to store scores and achievements.
+- Represent scores and achievements using binary numbers.
+- Implement a scoring mechanism that converts traditional scores into binary.
+- Display the user's overall score in binary format on their profile.
+- Include features such as score history, achievements, and leaderboard.
 
 # Feedback
 
