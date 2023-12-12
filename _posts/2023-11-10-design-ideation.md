@@ -14,7 +14,7 @@ courses: { compsci: {week: 11} }
   - Similar to CoolMathGames, but 3 games and solely binary-related
         1. Binary Checkers
         2. Binary Blue vs. Red Game
-        3. Binary Sudoku
+        3. Binary 
         4. Score Tracker Using Binary System
 
 ## Details
