@@ -27,7 +27,7 @@ D - The program cannot represent integers; the integers are converted into decim
 
 # Question 10
 
-<img src= "https://github.com/alaraipek/Issues/assets/115954616/8530351f-74e5-49eb-bc5d-3cb84421e8e0">
+<img src="https://github.com/alaraipek/Issues/assets/115954616/8530351f-74e5-49eb-bc5d-3cb84421e8e0" width="200">
 
 <img src="https://github.com/alaraipek/Issues/assets/115954616/5e4882f4-350d-46ae-a222-cca2051df740">
 
@@ -43,7 +43,7 @@ D - The program cannot represent integers; the integers are converted into decim
 ### - Correct Answer: A
 ### - Explanation: 11110000 -> 240 not 224
 
-# Question 
+# Question 18
 
 <img src="https://github.com/alaraipek/Issues/assets/115954616/0da82b6b-8e38-4d0a-8adf-d319ef11a05e">
 
@@ -52,3 +52,115 @@ D - The program cannot represent integers; the integers are converted into decim
 ### - Answer: D
 ### - Correct Answer: B
 ### - Explanation: The provided code snippet directs the robot to advance when facing an open square. Upon encountering an absence of an open square in front, the robot executes a right turn. This sequence guides the robot's movement: forward to the upper right corner, right turn, forward to the bottom right corner, right turn, forward to the bottom left corner, right turn, and finally advancing two squares to reach the gray square.
+
+# Question 22
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 23
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 24
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 26
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 30
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 35
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 37
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 45
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 52
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 54
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 55
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 57
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 58
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
+
+# Question 60
+
+<img src="">
+
+### - Answer: B
+### - Correct Answer: A
+### - Explanation: 11110000 -> 240 not 224
