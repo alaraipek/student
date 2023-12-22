@@ -27,7 +27,7 @@ D - The program cannot represent integers; the integers are converted into decim
 
 # Question 10
 
-<img src="https://github.com/alaraipek/Issues/assets/115954616/8530351f-74e5-49eb-bc5d-3cb84421e8e0" width="200">
+<img src="https://github.com/alaraipek/Issues/assets/115954616/8530351f-74e5-49eb-bc5d-3cb84421e8e0" width="1200">
 
 <img src="https://github.com/alaraipek/Issues/assets/115954616/5e4882f4-350d-46ae-a222-cca2051df740">
 
