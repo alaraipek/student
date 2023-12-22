@@ -89,7 +89,7 @@ D - The program cannot represent integers; the integers are converted into decim
 
 # Question 35
 
-<img src="https://github.com/alaraipek/Issues/assets/115954616/473cebea-dd31-439e-930a-8888a7f6e5b6">
+<img src="https://github.com/alaraipek/Issues/assets/115954616/473cebea-dd31-439e-930a-8888a7f6e5b6" width="1200">
 
 ### - While the MaxFour procedure computes the maximum among several values, akin to the MaxTwo and MaxThree procedures, it does not extend this functionality to calculate the maximum across any arbitrary number of values.
 
